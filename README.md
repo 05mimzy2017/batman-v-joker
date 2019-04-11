@@ -14,24 +14,27 @@ anything to protect her puddin'!
 ```markdown
 Keyboard:
 
-	-Use the left and right arrow keys to move Batman back and forth. 
-	-Use the spacebar to shoot batarangs at Joker and Harley Quinn
-	-Watch out for Joker throwing his playing cards
+	*Use the left and right arrow keys to move Batman back and forth. 
+	*Use the spacebar to shoot batarangs at Joker and Harley Quinn
+	*Watch out for Joker throwing his playing cards
 
 XBOX Controller: 
-        -Press START to start the game
-	-Use the left joystick to move left, right, up, and down
-	-Press A to shoot batarans
-	-Press B to pause the game
-	-Press Y to restart the game
+        *Press START to start the game
+	*Use the left joystick to move left, right, up, and down
+	*Press A to shoot batarans
+	*Press B to pause the game
+	*Press Y to restart the game
     
 [Link](url) and ![Image](src)
 ```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Scoring
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Every time you hit Joker or Harley Quinn you get a point.
+*If you hit Riddler, you get 20 points. 
+
+ [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
 
 ### Support or Contact
 
