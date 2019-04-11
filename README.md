@@ -8,28 +8,25 @@ anything to protect her puddin'!
 [Jekyll](https://jekyllrb.com/) 
 
 
-### Markdown
+## Controls
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Keyboard:
 
-# Header 1
-## Header 2
-### Header 3
+		Use the left and right arrow keys to move Batman back and forth. 
+		Use the spacebar to shoot batarangs at Joker and Harley Quinn
+		Watch out for Joker throwing his playing cards
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+XBOX Controller: 
+		Press START to start the game
+		Use the left joystick to move left, right, up, and down
+		Press A to shoot batarans
+		Press B to pause the game
+		Press Y to restart the game
+    
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
