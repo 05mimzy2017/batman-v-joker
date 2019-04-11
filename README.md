@@ -1,8 +1,11 @@
-## About
+##  Backstory
 
-You can use the [editor on GitHub](https://github.com/05mimzy2017/batman-v-joker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In Gotham City, Batman and Joker have been enemy for years. Now, Joker is running wild in Gotham setting up little bombs filled with Joker gas. It is up to Batman (you) to save the city and put Joker back in Arkham Asylum. But watch out for Harley Quinn, she will do
+anything to protect her puddin'! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[editor on GitHub](https://github.com/05mimzy2017/batman-v-joker/edit/master/README.md) 
+[Jekyll](https://jekyllrb.com/) 
+
 
 ### Markdown
 
