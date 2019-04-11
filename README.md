@@ -14,16 +14,16 @@ anything to protect her puddin'!
 ```markdown
 Keyboard:
 
-		Use the left and right arrow keys to move Batman back and forth. 
-		Use the spacebar to shoot batarangs at Joker and Harley Quinn
-		Watch out for Joker throwing his playing cards
+	*Use the left and right arrow keys to move Batman back and forth. 
+	*Use the spacebar to shoot batarangs at Joker and Harley Quinn
+	*Watch out for Joker throwing his playing cards
 
 XBOX Controller: 
-		Press START to start the game
-		Use the left joystick to move left, right, up, and down
-		Press A to shoot batarans
-		Press B to pause the game
-		Press Y to restart the game
+	*Press START to start the game
+	*Use the left joystick to move left, right, up, and down
+	*Press A to shoot batarans
+	*Press B to pause the game
+	*Press Y to restart the game
     
 [Link](url) and ![Image](src)
 ```
