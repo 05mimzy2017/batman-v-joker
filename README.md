@@ -32,6 +32,7 @@ XBOX Controller:
 ### Scoring
 
 *Every time you hit Joker or Harley Quinn you get a point.
+
 *If you hit Riddler, you get 20 points. 
 
  [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
