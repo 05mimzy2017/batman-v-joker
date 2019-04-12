@@ -60,5 +60,6 @@ Powerups:
 
 ### Sources:
 
-   -I got most of the images from [Google!](http://google.com). 
-   -I made the batarang on [Piskel!](https://www.piskelapp.com).
+   -I got most of the images from [Google!](http://google.com) 
+   
+   -I made the batarang on [Piskelapp!](https://www.piskelapp.com)
