@@ -1,6 +1,6 @@
 ## Game
 
-[Image of Batman V Joker](https://github.com/05mimzy2017/batman-v-joker/assets/images/screenshot.png)
+![Image of Batman V Joker](https://github.com/05mimzy2017/batman-v-joker/assets/images/screenshot.png)
 
 
 ##  Backstory
