@@ -1,6 +1,6 @@
 ## Game
 
-[Image of Batman V Joker](https://octodex.github.com/images/screenshot.png)
+[Image of Batman V Joker](assets/images/screenshot.png)
 
 
 ##  Backstory
