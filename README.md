@@ -37,6 +37,11 @@ XBOX Controller:
 
  [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
 
-### Support or Contact
+### Special Features
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Powerups:
+    -If you hit the shield icon, all you shields will be restored.
+
+ [documentation](https://help.github.com/categories/github-pages-basics/)
+ 
+ [contact support](https://github.com/contact) 
