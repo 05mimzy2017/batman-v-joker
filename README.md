@@ -8,10 +8,6 @@
 In Gotham City, Batman and Joker have been enemy for years. Now, Joker is running wild in Gotham setting up little bombs filled with Joker gas. It is up to Batman (you) to save the city and put Joker back in Arkham Asylum. But watch out for Harley Quinn, she will do
 anything to protect her puddin'! 
 
-[editor on GitHub](https://github.com/05mimzy2017/batman-v-joker/edit/master/README.md) 
-
-[Jekyll](https://jekyllrb.com/) 
-
 ## Objective
 
 Get points by hiting all the Jokers and Harley Quinns with you batarangs.
@@ -33,9 +29,8 @@ XBOX Controller:
 	-Press B to pause the game
 	-Press Y to restart the game
     
-[Link](url) and ![Image](src)
+
 ```
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Scoring
 
@@ -43,7 +38,6 @@ XBOX Controller:
 
 -If you hit Riddler, you get 20 points. 
 
- [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
 
 ### Special Features
 
@@ -53,12 +47,9 @@ Shields:
      	-Batman has 5 shields
 	    -When Batman loses all of his shields he turns into Robin
 	-Joker and Harley Quinn have 3 shields
-	    -When Joker and Harley Quinn lose all of their shields, they turn into Peguins
+	    -When Joker and Harley Quinn lose all of their shields, they turn 
+	     into Peguins
 	  
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
 ```
-
- [documentation](https://help.github.com/categories/github-pages-basics/)
- 
- [contact support](https://github.com/contact) 
