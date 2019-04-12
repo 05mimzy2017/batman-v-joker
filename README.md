@@ -56,6 +56,10 @@ Shields:
 	  
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
+     
+Timer:
+    -There is a timer that counts up to tell you how long you have been playing.
+    
 ```
 
 ### Sources:
