@@ -1,3 +1,8 @@
+## Game
+
+[Image of Batman V Joker](https://octodex.github.com/images/screenshot.png)
+
+
 ##  Backstory
 
 In Gotham City, Batman and Joker have been enemy for years. Now, Joker is running wild in Gotham setting up little bombs filled with Joker gas. It is up to Batman (you) to save the city and put Joker back in Arkham Asylum. But watch out for Harley Quinn, she will do
