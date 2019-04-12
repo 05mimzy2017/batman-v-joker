@@ -40,8 +40,7 @@ XBOX Controller:
 ### Special Features
 
 Powerups:
-
-    -If you hit the shield icon, all you shields will be restored.
+     -If you hit the shield icon, all you shields will be restored.
 
  [documentation](https://help.github.com/categories/github-pages-basics/)
  
