@@ -8,6 +8,7 @@
 In Gotham City, Batman and Joker have been enemy for years. Now, Joker is running wild in Gotham setting up little bombs filled with Joker gas. It is up to Batman (you) to save the city and put Joker back in Arkham Asylum. But watch out for Harley Quinn, she will do
 anything to protect her puddin'! 
 
+
 ## Objective
 
 Get points by hiting all the Jokers and Harley Quinns with you batarangs.
@@ -18,9 +19,12 @@ Get points by hiting all the Jokers and Harley Quinns with you batarangs.
 ```markdown
 Keyboard:
 
+	-Use the spacebar to start the game
 	-Use the left and right arrow keys to move Batman back and forth. 
 	-Use the spacebar to shoot batarangs at Joker and Harley Quinn
+	-Press the P key to pause the game
 	-Watch out for Joker throwing his playing cards
+	-In fullscreen mode, press the ESC button to get out of the game
 
 XBOX Controller: 
         -Press START to start the game
