@@ -12,9 +12,12 @@ anything to protect her puddin'!
 
 [Jekyll](https://jekyllrb.com/) 
 
+## Objective
+
+Get points by hiting all the Jokers and Harley Quinns with you batarangs.
+
 
 ## Controls
-
 
 ```markdown
 Keyboard:
@@ -43,9 +46,16 @@ XBOX Controller:
  [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
 
 ### Special Features
-
+Shields:
+     -All characters have a shield:
+     	-Batman has 5 shields
+	    -When Batman loses all of his shields he turns into Robin
+	-Joker and Harley Quinn have 3 shields
+	    -When Joker and Harley Quinn lose all of their shields, they turn into Peguins
+	  
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
+
 
  [documentation](https://help.github.com/categories/github-pages-basics/)
  
