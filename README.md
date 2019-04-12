@@ -1,20 +1,20 @@
-## Game
+### Game
 
 ![Image of Batman V Joker](https://raw.githubusercontent.com/05mimzy2017/batman-v-joker/master/assets/images/screenshot.png)
 
 
-##  Backstory
+###  Backstory
 
 In Gotham City, Batman and Joker have been enemy for years. Now, Joker is running wild in Gotham setting up little bombs filled with Joker gas. It is up to Batman (you) to save the city and put Joker back in Arkham Asylum. But watch out for Harley Quinn, she will do
 anything to protect her puddin'! 
 
 
-## Objective
+### Objective
 
 Get points by hiting all the Jokers and Harley Quinns with you batarangs.
 
 
-## Controls
+### Controls
 
 ```markdown
 Keyboard:
@@ -57,3 +57,8 @@ Shields:
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
 ```
+
+### Sources:
+
+   -I got most of the images from [link to Google!](http://google.com). 
+   -I made the batarang on [link to Piskel!](https://www.piskelapp.com).
