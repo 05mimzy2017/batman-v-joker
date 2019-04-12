@@ -46,6 +46,8 @@ XBOX Controller:
  [repository settings](https://github.com/05mimzy2017/batman-v-joker/settings). 
 
 ### Special Features
+
+```markdown
 Shields:
      -All characters have a shield:
      	-Batman has 5 shields
@@ -55,7 +57,7 @@ Shields:
 	  
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
-
+```
 
  [documentation](https://help.github.com/categories/github-pages-basics/)
  
