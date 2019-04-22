@@ -52,7 +52,7 @@ Shields:
 	    -When Batman loses all of his shields he turns into Robin
 	-Joker and Harley Quinn have 3 shields
 	    -When Joker and Harley Quinn lose all of their shields, they turn 
-	     into Peguins
+	     into Penguins
 	  
 Powerups:
      -If you hit the shield icon, all you shields will be restored.
