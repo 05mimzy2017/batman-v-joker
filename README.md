@@ -1,5 +1,7 @@
 ### Game
 
+![Image of Batman V Joker](https://raw.githubusercontent.com/05mimzy2017/batman-v-joker/master/assets/images/title.png)
+
 ![Image of Batman V Joker](https://raw.githubusercontent.com/05mimzy2017/batman-v-joker/master/assets/images/screenshot.png)
 
 
